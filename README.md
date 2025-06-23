@@ -60,6 +60,11 @@ Travita يقدم حلول مبتكرة للتحديات السابقة:
 ---
 ## 🧠 System Analysis
 
+<p align="center">
+<img src="https://github.com/ahmedgfouad/Travita/blob/main/1.png?raw=true" width="250" style="margin-right: 20px;" />
+   
+</p>
+
 
 ---
 ## 🧠 System Architecture
