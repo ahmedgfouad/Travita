@@ -64,6 +64,14 @@ Travita offers innovative features to address these challenges:
 - 📱 **Fully Responsive UI**  
   Adaptive and smooth experience across all device sizes.
 
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/7.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/8.png" width="600"/>     
+  <img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/9.png" width="600"/>
+
+</p>
+
 ---
 
 ## 🧠 System Analysis
