@@ -61,7 +61,7 @@ Travita يقدم حلول مبتكرة للتحديات السابقة:
 ## 🧠 System Analysis
 
 <p align="center">
-<img src="https://github.com/ahmedgfouad/Travita/blob/main/1.png?raw=true" width="250" style="margin-right: 20px;" />
+<img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/1.png" width="300"/>
    
 </p>
 
