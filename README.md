@@ -1,108 +1,132 @@
-# 🧳 Travita – رفيق السفر الذكي
+# 🧳 Travita – Smart Travel Companion
 
-Travita هو تطبيق موبايل ذكي يعتمد على Flutter، تم تطويره لمساعدة المسافرين في تخطيط وتنظيم رحلاتهم بسهولة ومتعة. التطبيق يستخدم تقنيات الذكاء الاصطناعي لتقديم تجربة سفر شخصية، تتضمن اقتراح أماكن بناءً على الصور، إنشاء خطط سفر تلقائية، وتوصيات حسب الميزانية.
+Travita is a smart mobile app built with Flutter, designed to help travelers effortlessly plan and organize their trips. It leverages AI technologies to deliver a personalized travel experience, including image-based place search, automated trip planning, and budget-based recommendations.
+
+---
+## 📽️ Demo
+
+### 📱 Mobile Version:
+[🔗 Click here to watch the demo video](https://drive.google.com/file/d/1ClGAs_dgikIpVLlkZ9zh9yqAgwqH-bbk/view?usp=sharing)
+
 
 ---
 
-## 🧩 نظرة على المشكلة
+## 🧩 Problem Overview
 
-يعاني الكثير من المسافرين من التحديات التالية:
+Many travelers face the following challenges:
 
-1. **عدم وجود خطة مخصصة**  
-   معظم التطبيقات تعرض أماكن مشهورة فقط دون الاهتمام بتفضيلات المستخدم.
+1. **No personalized plan**  
+   Most travel apps suggest only popular places without considering user preferences.
 
-2. **لا توجد طريقة سهلة للبحث باستخدام صورة**  
-   لا يمكن للمستخدم البحث عن أماكن شبيهة باستخدام صورة موجودة لديه.
+2. **No easy image-based search**  
+   Users cannot find similar places using an image they already have.
 
-3. **صعوبة إيجاد مطاعم تناسب الميزانية**  
-   التطبيقات لا تقدم توصيات حسب الميزانية الخاصة بالمستخدم.
+3. **Hard to find restaurants within budget**  
+   Apps don't usually offer budget-specific recommendations.
 
-4. **شركات السياحة مكلفة**  
-   تنظيم الرحلات من خلال شركات السياحة قد يكون مرتفع التكلفة.
-
----
-
-## 💡 الحل
-
-Travita يقدم حلول مبتكرة للتحديات السابقة:
-
-1. **تخطيط ذكي مخصص باستخدام الذكاء الاصطناعي**  
-   إنشاء خطة سفر كاملة مخصصة حسب اهتمامات المستخدم، المدينة المختارة وعدد الأيام.
-
-2. **إمكانية التخطيط اليدوي**  
-   يمكن للمستخدم إنشاء خطة خاصة به عن طريق اختيار الأماكن التي يرغب في زيارتها.
-
-3. **البحث عن الأماكن باستخدام الصور**  
-   يمكن رفع صورة، والتطبيق سيحدد المكان الموجود بها ويقترح أماكن مشابهة بصريًا.
-
-4. **اقتراحات حسب الميزانية**  
-   عرض مطاعم وخدمات بالقرب من المستخدم وضمن حدود ميزانيته.
+4. **Travel agencies are expensive**  
+   Organizing trips through agencies often incurs high costs.
 
 ---
 
-## 🚀 المميزات
+## 💡 The Solution
 
-- 🔍 **البحث بالصور**  
-  ابحث عن أماكن بناءً على صورة باستخدام الذكاء الاصطناعي.
+Travita offers innovative features to address these challenges:
 
-- 🗺️ **تخطيط ذكي للرحلات**  
-  إنشاء خطط تلقائية أو تخصيص خطة يدويًا حسب الرغبة.
+1. **AI-powered personalized planning**  
+   Generate a complete plan based on user interests, selected city, and number of days.
 
-- 📍 **دمج مع خرائط Google**  
-  الملاحة وتحديد المواقع داخل التطبيق باستخدام خرائط Google.
+2. **Manual trip planning**  
+   Users can manually select places to create their own itinerary.
 
-- 🔐 **تسجيل دخول آمن**  
-  استخدام Firebase Authentication لضمان أمان حسابات المستخدمين.
+3. **Image-based place search**  
+   Upload an image, and the app will identify the place and suggest visually similar spots.
 
-- 📱 **واجهة متجاوبة بالكامل**  
-  تصميم واجهة متكيفة تعمل بسلاسة على مختلف أحجام الشاشات.
+4. **Budget-based suggestions**  
+   Find nearby restaurants and services that match your budget.
 
 ---
+
+## 🚀 Features
+
+- 🔍 **Image Search**  
+  Search for places using an image powered by visual similarity AI.
+
+- 🗺️ **Smart Trip Planning**  
+  Automatically generate or manually customize your trip plan.
+
+- 📍 **Google Maps Integration**  
+  Seamless navigation and location services using Google Maps.
+
+- 🔐 **Secure Authentication**  
+  Firebase Authentication ensures user account security.
+
+- 📱 **Fully Responsive UI**  
+  Adaptive and smooth experience across all device sizes.
+
+---
+
 ## 🧠 System Analysis
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/1.png" width="300"/>
-   
+  <img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/1.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/2.png" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/3.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/4.png" width="400"/>
+</p>
 
 ---
-## 🧠 System Architecture
+
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/5.png" width="600"/>
+</p>
 
 ---
-## 📂 هيكلية المشروع
 
+## 🧑‍💻 System Implementation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedgfouad/Travita/master/6.png" width="600"/>
+</p>
+
+---
+
+## 📂 Folder Structure
 
 ```bash
 lib/
 ├── core/
-│   ├── router/          # إدارة التوجيه والتنقل (GoRouter أو Navigator)
-│   ├── services/        # خدمات عامة مثل: Firebase, LocalStorage, API
-│   ├── themes/          # إعدادات الثيم (ألوان، Typography، الوضع الليلي)
-│   ├── utils/           # أدوات مساعدة: Constants، Extensions، Helpers
-│   └── widgets/         # Widgets عامة قابلة لإعادة الاستخدام في كل المشروع
+│   ├── router/
+│   ├── services/
+│   ├── themes/
+│   ├── utils/
+│   └── widgets/
 │
 ├── data/
-│   ├── models/          # نماذج البيانات (User, Place, TripPlan...)
-│   ├── repositories/    # الطبقة التي تفصل الـ UI عن مصادر البيانات
-│   └── datasources/     # مصادر البيانات: API، قواعد البيانات، إلخ
+│   ├── models/
+│   ├── repositories/
+│   └── datasources/
 │
-├── features/            # كل ميزة مستقلة بالكامل (بشكل modular)
-│   ├── auth/            # تسجيل الدخول/التسجيل باستخدام Firebase Auth
-│   ├── planner/         # مولد خطة الرحلات التلقائي والتخطيط اليدوي
-│   ├── map/             # عرض الأماكن على الخريطة والتوجيه باستخدام Google Maps
-│   ├── image_search/    # البحث عن أماكن بناءً على الصور باستخدام الذكاء الاصطناعي
-│   └── profile/         # تعديل بيانات وصورة المستخدم
+├── features/
+│   ├── auth/
+│   ├── planner/
+│   ├── map/
+│   ├── image_search/
+│   └── profile/
 │
 ├── logic/
-│   ├── auth_cubit/      # إدارة الحالة لميزة المصادقة
-│   ├── planner_cubit/   # إدارة الحالة لخطة الرحلات
-│   ├── map_cubit/       # إدارة الحالة للخرائط
-│   └── image_search_cubit/ # إدارة الحالة للبحث بالصور
+│   ├── auth_cubit/
+│   ├── planner_cubit/
+│   ├── map_cubit/
+│   └── image_search_cubit/
 │
 ├── presentation/
-│   ├── screens/         # الشاشات الكاملة (Home, PlannerView, MapView...)
-│   └── widgets/         # عناصر واجهة خاصة بكل شاشة أو عامة
+│   ├── screens/
+│   └── widgets/
 │
-└── main.dart            # نقطة البداية لتشغيل التطبيق
-
+└── main.dart
